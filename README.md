@@ -11,9 +11,10 @@ Front-End: HTML, CSS, JavaScript
 Tools: VS Code
 
 Projects Included
-Project Name 1: Todo List
-Project Name 2: 
-Project Name 3: 
+Project Name 1: Quiz App
+Project Name 2: Search GitHub Users
+Project Name 3: Testimonial
+Project Name 4: Todo List
 
 Contributions are welcome! Fork this repository, make changes, and submit a pull request.
 
