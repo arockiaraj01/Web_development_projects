@@ -10,11 +10,15 @@ Technologies Used
 Front-End: HTML, CSS, JavaScript
 Tools: VS Code
 
-Projects Included
-Project Name 1: Quiz App
+Projects Included:
+Project Name 1: Quiz App 
+    Link: https://github.com/arockiaraj01/Web_development_projects/tree/main/Quiz%20App
 Project Name 2: Search GitHub Users
-Project Name 3: Testimonial
-Project Name 4: Todo List
+    Link: https://github.com/arockiaraj01/Web_development_projects/tree/main/Search%20GitHub%20Users
+Project Name 3: Testimonial 
+    Link: https://github.com/arockiaraj01/Web_development_projects/tree/main/Testimonial
+Project Name 4: Todo List 
+    Link: https://github.com/arockiaraj01/Web_development_projects/tree/main/Todo%20List
 
 Contributions are welcome! Fork this repository, make changes, and submit a pull request.
 
