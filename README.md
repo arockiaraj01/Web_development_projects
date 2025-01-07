@@ -11,10 +11,9 @@ Front-End: HTML, CSS, JavaScript
 Tools: VS Code
 
 Projects Included
-Project Name 1: Short description (e.g., Responsive Portfolio Website).
-Project Name 2: Short description (e.g., To-Do App with Local Storage).
-Project Name 3: Short description (e.g., Weather App with API integration).
-[Add project links or directories if applicable.]
+Project Name 1: Todo List
+Project Name 2: 
+Project Name 3: 
 
 Contributions are welcome! Fork this repository, make changes, and submit a pull request.
 
